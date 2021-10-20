@@ -1,0 +1,12 @@
+.green{
+    background-color: rgb(26, 110, 75);
+    color: rgb(223, 199, 211);
+    width: 700px;
+    padding:15px;
+}
+.gray{
+    background-color: gray;
+    color: whitesmoke;
+    width: 700px;
+    padding:15px;
+}
